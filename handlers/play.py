@@ -314,7 +314,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥 💕",
-                            url=f"https://t.me/Pubglovrs_Shayri_lovers")
+                            url=f"https://t.me/Pubglovers_Shayri_lovers")
                ],
                [
                     InlineKeyboardButton(
